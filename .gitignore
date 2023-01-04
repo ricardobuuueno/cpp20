@@ -1,0 +1,4 @@
+cpp_template_project/*.exe
+cpp_template_project/*.pdb
+cpp_template_project/*.ilk
+cpp_template_project/*.obj
